@@ -2,7 +2,7 @@
 
 Hello, deep learning enthusiasts! 👋
 
-This repository provides **deep learning tutorials** with Pytorch for beginners. We will learn some deep learning concepts through hands-on exercises that you can run in Jupyter Notebook or Google Colab.
+This repository provides **deep learning and computer vision tutorials** with Pytorch for beginners. We will learn some deep learning concepts through hands-on exercises that you can run in Jupyter Notebook or Google Colab.
 
 ### 🔹 **Introduction to Pytorch**
 * Introduction to Pytorch - Iris dataset → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Intro_to_pytorch_iris_dataset.ipynb)
