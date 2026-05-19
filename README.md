@@ -15,7 +15,7 @@ This repository provides **deep learning and computer vision tutorials** with Py
 ### 🔹 **Convolutional Neural Networks (CNN)**
 
 📌 **Application for image classification**
-* Handwritten digit (MNIST) classification with CNN → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/02_mnist_classification_using_CNN_pytorch.ipynb)
+* Handwritten digit (MNIST) classification with CNN → [Open notebook](https://github.com/harishmuh/Deep-Learning-with-Pytorch-tutorials/blob/main/02_mnist_classification_using_CNN_pytorch.ipynb)
 * Image classification with CNN - CIFAR10 dataset (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_Classification_with_CNN_CIFAR10_pytorch.ipynb)
 
 📌 **Transfer Learning implementation**
