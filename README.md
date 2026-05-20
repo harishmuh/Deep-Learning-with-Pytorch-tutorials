@@ -10,7 +10,7 @@ This repository provides **deep learning and computer vision tutorials** with Py
 ### 🔹 **Fully connected network**
 
 📌 **Multi-Layer Perceptron (MLP)**
-* Handwritten digit (MNIST) classification with MLP → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/01_mnist_classification_using_MLP.ipynb)
+* Handwritten digit (MNIST) classification with MLP → [Open notebook](https://github.com/harishmuh/Deep-Learning-with-Pytorch-tutorials/blob/main/01_mnist_classification_using_MLP.ipynb)
 
 ### 🔹 **Convolutional Neural Networks (CNN)**
 
