@@ -25,4 +25,4 @@ This repository provides **deep learning and computer vision tutorials** with Py
 ### 🔹 **Computer vision tasks (with Pytorch)**
 
 📌 **Semantic segmentation**
-* Nuclei segmentation with U-Net → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb)
+* Nuclei segmentation with U-Net → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb), [rev-1](https://nbviewer.org/github/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb)
