@@ -19,10 +19,10 @@ This repository provides **deep learning and computer vision tutorials** with Py
 * Image classification with CNN - CIFAR10 dataset (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_Classification_with_CNN_CIFAR10_pytorch.ipynb)
 
 📌 **Transfer Learning implementation**
-* 200 Bird images classification - transfer learning with resnet18 → [Notebook-0](https://github.com/harishmuh/Deep-Learning_study/blob/main/03_Transfer_Learning_for_Classifying_200_types_of_Bird_with_Pytorch.ipynb), [colab-1](https://colab.research.google.com/drive/1pwHjRZHhZvTjw2saWK4xLOHyfUMT758E?usp=sharing)
+* 200 Bird images classification - transfer learning with resnet18 → [Open notebook-0](https://github.com/harishmuh/Deep-Learning_study/blob/main/03_Transfer_Learning_for_Classifying_200_types_of_Bird_with_Pytorch.ipynb), [colab-1](https://colab.research.google.com/drive/1pwHjRZHhZvTjw2saWK4xLOHyfUMT758E?usp=sharing)
 
 
 ### 🔹 **Computer vision tasks (with Pytorch)**
 
 📌 **Semantic segmentation**
-* Nuclei segmentation with U-Net → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb), [rev-1](https://nbviewer.org/github/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb), [colab-1](https://colab.research.google.com/drive/16XIpX8FISiHqcMN-ii7qiME92HpJlma0?usp=sharing)
+* Nuclei segmentation with U-Net → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb), [Notebook_rev1](https://nbviewer.org/github/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb), [colab-1](https://colab.research.google.com/drive/16XIpX8FISiHqcMN-ii7qiME92HpJlma0?usp=sharing)
