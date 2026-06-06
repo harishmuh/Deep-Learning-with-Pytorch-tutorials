@@ -26,4 +26,4 @@ This repository provides **deep learning and computer vision tutorials** with Py
 
 📌 **Semantic segmentation**
 * Nuclei segmentation with U-Net → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb), [Notebook_rev1](https://nbviewer.org/github/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb), [colab-1](https://colab.research.google.com/drive/16XIpX8FISiHqcMN-ii7qiME92HpJlma0?usp=sharing)
-* Self-driving car segmentation - Carla Capture dataset → [Open notebook][colab-1](https://colab.research.google.com/drive/19HwRWcYYxl0QDhdbRIIOOcrkum1Ko5pS?usp=sharing)
+* Self-driving car segmentation - Carla Capture dataset → [Colab-1](https://colab.research.google.com/drive/19HwRWcYYxl0QDhdbRIIOOcrkum1Ko5pS?usp=sharing)
