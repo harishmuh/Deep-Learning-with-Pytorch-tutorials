@@ -31,5 +31,5 @@ This repository provides **deep learning and computer vision tutorials** with Py
 📌 **Object recognition**
 * Captcha recognition using CNN + RNN + CTC loss → [Open notebook](https://colab.research.google.com/drive/1qDBE_f3twr9il5lgw4NLFEhs9FzQ3PT4) | [notebook-rev1](https://colab.research.google.com/drive/1IDNP9Hc278M1Y26Ts0xC74f5s7rjdAv3?usp=sharing)
 
-📌 **Vision Transformer**
-* Image classification with vision tranformer - CIFAR10 dataset → [Open notebook](https://colab.research.google.com/drive/1JsLxhhGlbSsS__E9CrX81fxLoFB1GKzu)
+📌 **Vision Transformation**
+* Image classification with vision tranformer - CIFAR10 dataset → [Open notebook](https://colab.research.google.com/drive/1JsLxhhGlbSsS__E9CrX81fxLoFB1GKzu) | [notebook-rev1](https://colab.research.google.com/drive/1RjpYnpvW0yAXtlD0w-1Jd5kyyMB1uzMq?usp=sharing)
