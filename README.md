@@ -4,6 +4,8 @@ Hello, deep learning enthusiasts! 👋
 
 This repository provides **deep learning and computer vision tutorials** with Pytorch for beginners. We will learn some deep learning concepts through hands-on exercises that you can run in Jupyter Notebook or Google Colab.
 
+⚠️Hint: Please open the latest or higher version, as it contains a more updated version of the notebook
+
 ### 🔹 **Introduction to Pytorch**
 * Introduction to Pytorch - Iris dataset →
 [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Intro_to_pytorch_iris_dataset.ipynb)
@@ -38,6 +40,7 @@ This repository provides **deep learning and computer vision tutorials** with Py
 * Self-driving car segmentation - Carla Capture dataset →
 [Open notebook](https://colab.research.google.com/drive/1W80h-2DsOJTHe04Aiy4XQgmXxadoLpyx) |
 [notebook-rev1](https://colab.research.google.com/drive/19HwRWcYYxl0QDhdbRIIOOcrkum1Ko5pS?usp=sharing) |
+[notebook-rev2](https://colab.research.google.com/drive/1qpcCQ-8ppJLlQoINfWBll6aLUhPWLuB7?usp=sharing) |
 
 📌 **Object recognition**
 
