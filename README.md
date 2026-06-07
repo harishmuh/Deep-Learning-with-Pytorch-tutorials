@@ -35,7 +35,6 @@ This repository provides **deep learning and computer vision tutorials** with Py
 [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb) |
 [notebook-rev1](https://nbviewer.org/github/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb) |
 [notebook-rev2](https://colab.research.google.com/drive/16XIpX8FISiHqcMN-ii7qiME92HpJlma0?usp=sharing)
-
 * Self-driving car segmentation - Carla Capture dataset →
 [Open notebook](https://colab.research.google.com/drive/1W80h-2DsOJTHe04Aiy4XQgmXxadoLpyx) |
 [notebook-rev1](https://colab.research.google.com/drive/19HwRWcYYxl0QDhdbRIIOOcrkum1Ko5pS?usp=sharing)
