@@ -1,4 +1,4 @@
-# **Deep Learning with Pytorch tutorials**
+# **Deep Learning with PyTorch tutorials and computer vision**
 
 Hello, deep learning enthusiasts! 👋
 
