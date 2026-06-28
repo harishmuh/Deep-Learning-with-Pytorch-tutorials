@@ -28,7 +28,7 @@ This repository provides **deep learning and computer vision tutorials** with Py
 
 * Classification of 200 Bird images - transfer learning with resnet18 →
 [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/03_Transfer_Learning_for_Classifying_200_types_of_Bird_with_Pytorch.ipynb) |
-[notebook_1](https://colab.research.google.com/drive/1pwHjRZHhZvTjw2saWK4xLOHyfUMT758E?usp=sharing) |
+[notebook_1](https://colab.research.google.com/drive/1pwHjRZHhZvTjw2saWK4xLOHyfUMT758E?usp=sharing) 
 
 * Vegetable images classification - transfer learning with EfficientNet → [Open notebook](https://colab.research.google.com/drive/1X_PqZL5oqtknt9GrNqFc9biJykKfliAn?usp=sharing) 
 
@@ -40,18 +40,18 @@ This repository provides **deep learning and computer vision tutorials** with Py
 * Nuclei segmentation with U-Net →
 [notebook_0](https://github.com/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb) |
 [notebook_1](https://nbviewer.org/github/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb) |
-[notebook_2](https://colab.research.google.com/drive/16XIpX8FISiHqcMN-ii7qiME92HpJlma0?usp=sharing) |
+[notebook_2](https://colab.research.google.com/drive/16XIpX8FISiHqcMN-ii7qiME92HpJlma0?usp=sharing) 
 
 * Self-driving car segmentation - Carla Capture dataset →
 [notebook_0](https://colab.research.google.com/drive/1W80h-2DsOJTHe04Aiy4XQgmXxadoLpyx) |
 [notebook_1](https://colab.research.google.com/drive/19HwRWcYYxl0QDhdbRIIOOcrkum1Ko5pS?usp=sharing) |
-[notebook_2](https://colab.research.google.com/drive/1qpcCQ-8ppJLlQoINfWBll6aLUhPWLuB7?usp=sharing) |
+[notebook_2](https://colab.research.google.com/drive/1qpcCQ-8ppJLlQoINfWBll6aLUhPWLuB7?usp=sharing) 
 
 📌 **Object recognition**
 
 * Captcha recognition using CNN + RNN + CTC loss →
 [notebook_0](https://colab.research.google.com/drive/1qDBE_f3twr9il5lgw4NLFEhs9FzQ3PT4) |
-[notebook_1](https://colab.research.google.com/drive/1IDNP9Hc278M1Y26Ts0xC74f5s7rjdAv3?usp=sharing) |
+[notebook_1](https://colab.research.google.com/drive/1IDNP9Hc278M1Y26Ts0xC74f5s7rjdAv3?usp=sharing) 
 
 📌 **Vision Transformation**
 
