@@ -8,8 +8,8 @@ This repository provides **deep learning and computer vision tutorials** with Py
 
 ### 🔹 **Introduction to Pytorch**
 * Introduction to Pytorch - Iris dataset →
-[Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Intro_to_pytorch_iris_dataset.ipynb)
-* PyTorch fundamentals → [notebook_0](https://colab.research.google.com/drive/16LRunUx1YP79S1MMiYIc151xHU4EpHhk?usp=sharing)
+[notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Intro_to_pytorch_iris_dataset.ipynb)
+* PyTorch fundamentals → [notebook](https://colab.research.google.com/drive/16LRunUx1YP79S1MMiYIc151xHU4EpHhk?usp=sharing)
 
 ### 🔹 **Fully connected network**
 
@@ -21,17 +21,17 @@ This repository provides **deep learning and computer vision tutorials** with Py
 
 📌 **Application for image classification**
 * Handwritten digit (MNIST) classification with CNN →
-[Open notebook](https://github.com/harishmuh/Deep-Learning-with-Pytorch-tutorials/blob/main/02_mnist_classification_using_CNN_pytorch.ipynb)
+[notebook](https://github.com/harishmuh/Deep-Learning-with-Pytorch-tutorials/blob/main/02_mnist_classification_using_CNN_pytorch.ipynb)
 * Image classification with CNN - CIFAR10 dataset (Gani, 2025) →
-[Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_Classification_with_CNN_CIFAR10_pytorch.ipynb)
+[notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_Classification_with_CNN_CIFAR10_pytorch.ipynb)
 
 📌 **Transfer Learning implementation**
 
 * Classification of 200 Bird images - transfer learning with resnet18 →
-[Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/03_Transfer_Learning_for_Classifying_200_types_of_Bird_with_Pytorch.ipynb) |
+[notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/03_Transfer_Learning_for_Classifying_200_types_of_Bird_with_Pytorch.ipynb) |
 [notebook_1](https://colab.research.google.com/drive/1pwHjRZHhZvTjw2saWK4xLOHyfUMT758E?usp=sharing) 
 
-* Vegetable images classification - transfer learning with EfficientNet → [Open notebook](https://colab.research.google.com/drive/1X_PqZL5oqtknt9GrNqFc9biJykKfliAn?usp=sharing) 
+* Vegetable images classification - transfer learning with EfficientNet → [notebook](https://colab.research.google.com/drive/1X_PqZL5oqtknt9GrNqFc9biJykKfliAn?usp=sharing) 
 
 
 ### 🔹 **Computer vision tasks**
