@@ -9,6 +9,7 @@ This repository provides **deep learning and computer vision tutorials** with Py
 ### 🔹 **Introduction to Pytorch**
 * Introduction to Pytorch - Iris dataset →
 [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Intro_to_pytorch_iris_dataset.ipynb)
+* PyTorch fundamentals → [notebook_0](https://colab.research.google.com/drive/16LRunUx1YP79S1MMiYIc151xHU4EpHhk?usp=sharing)
 
 ### 🔹 **Fully connected network**
 
