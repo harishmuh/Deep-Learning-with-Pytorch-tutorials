@@ -36,6 +36,9 @@ This repository provides **deep learning and computer vision tutorials** with Py
 
 ### 🔹 **Computer vision tasks**
 
+📌 **Image preprocessing for computer vision**
+* Image preprocessing techniques → [notebook](https://colab.research.google.com/drive/1ExMcseBoN9pVYhv9lf2l5ziRxdG_gQB3?usp=sharing)
+
 📌 **Semantic segmentation**
 
 * Nuclei segmentation with U-Net →
