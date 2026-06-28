@@ -19,6 +19,10 @@ This repository provides **deep learning and computer vision tutorials** with Py
 
 ### 🔹 **Convolutional Neural Networks (CNN)**
 
+📌 **Theory and fundamentals**
+* CNN fundamentals →
+[notebook](https://colab.research.google.com/drive/1EHgfUn7YbZePkfmx6TfTYyzYoa3D14Gm?usp=sharing)
+
 📌 **Application for image classification**
 * Handwritten digit (MNIST) classification with CNN →
 [notebook](https://github.com/harishmuh/Deep-Learning-with-Pytorch-tutorials/blob/main/02_mnist_classification_using_CNN_pytorch.ipynb)
