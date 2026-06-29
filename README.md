@@ -30,7 +30,7 @@ This repository provides **deep learning and computer vision tutorials** with Py
 [notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_Classification_with_CNN_CIFAR10_pytorch.ipynb)
 
 📌 **Transfer Learning implementation**
-
+* Transfer learning & pre-trained models → [notebook](https://colab.research.google.com/drive/1Wmgg0zS9E0nqetxCVonqOGPP2xcRZI8q?usp=sharing)
 * Classification of 200 Bird images - transfer learning with resnet18 →
 [notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/03_Transfer_Learning_for_Classifying_200_types_of_Bird_with_Pytorch.ipynb) |
 [notebook_1](https://colab.research.google.com/drive/1pwHjRZHhZvTjw2saWK4xLOHyfUMT758E?usp=sharing) 
