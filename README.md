@@ -76,6 +76,9 @@ This repository provides **deep learning and computer vision tutorials** with Py
 
 ### 🔹 **Computer vision applications**
 
+📌 **Facial recognition**
+* Face detection and face recognition → [notebook](https://colab.research.google.com/drive/1yaJ04rZFNGCf395nozJG-3Xlu-6DJgQi?usp=sharing)
+
 📌 **Precision Agriculture**
 
-* Plant Disease detection → [notebook_0](https://colab.research.google.com/drive/13QHXg_tSSniwaGKNZWXY4EMbi0wC7e-U?usp=sharing)
+* Plant Disease detection with Grad-CAM→ [notebook](https://colab.research.google.com/drive/13QHXg_tSSniwaGKNZWXY4EMbi0wC7e-U?usp=sharing)
