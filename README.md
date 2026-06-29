@@ -72,7 +72,11 @@ This repository provides **deep learning and computer vision tutorials** with Py
 
 * Image classification with vision transformer - CIFAR10 dataset →
 [notebook_0](https://colab.research.google.com/drive/1JsLxhhGlbSsS__E9CrX81fxLoFB1GKzu) |
-[notebook_1](https://colab.research.google.com/drive/1RjpYnpvW0yAXtlD0w-1Jd5kyyMB1uzMq?usp=sharing) 
+[notebook_1](https://colab.research.google.com/drive/1RjpYnpvW0yAXtlD0w-1Jd5kyyMB1uzMq?usp=sharing)
+
+📌 **Generative models for computer vision**
+
+* Generative adversarial network (GAN) & Variational Autoencoders (VAEs) for image generation/data augmentation → [notebook](https://colab.research.google.com/drive/1OYs7h-KawBwq1J8BaQVP35w76MaRPTf2?usp=sharing)
 
 ### 🔹 **Computer vision applications**
 
