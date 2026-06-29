@@ -43,9 +43,9 @@ This repository provides **deep learning and computer vision tutorials** with Py
 📌 **Image preprocessing for computer vision**
 * Image preprocessing techniques → [notebook](https://colab.research.google.com/drive/1ExMcseBoN9pVYhv9lf2l5ziRxdG_gQB3?usp=sharing)
 
-📌 **Semantic segmentation**
+📌 **Segmentation**
 
-* Nuclei segmentation with U-Net →
+* Nuclei semantic segmentation with U-Net →
 [notebook_0](https://github.com/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb) |
 [notebook_1](https://nbviewer.org/github/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb) |
 [notebook_2](https://colab.research.google.com/drive/16XIpX8FISiHqcMN-ii7qiME92HpJlma0?usp=sharing) 
@@ -53,7 +53,9 @@ This repository provides **deep learning and computer vision tutorials** with Py
 * Self-driving car segmentation - Carla Capture dataset →
 [notebook_0](https://colab.research.google.com/drive/1W80h-2DsOJTHe04Aiy4XQgmXxadoLpyx) |
 [notebook_1](https://colab.research.google.com/drive/19HwRWcYYxl0QDhdbRIIOOcrkum1Ko5pS?usp=sharing) |
-[notebook_2](https://colab.research.google.com/drive/1qpcCQ-8ppJLlQoINfWBll6aLUhPWLuB7?usp=sharing) 
+[notebook_2](https://colab.research.google.com/drive/1qpcCQ-8ppJLlQoINfWBll6aLUhPWLuB7?usp=sharing)
+
+* Instance segmentation → [notebook](https://colab.research.google.com/drive/1ZeHZq3gZk0HokSPMteoy3oghZl9xpw0f?usp=sharing)
 
 📌 **Object recognition**
 
