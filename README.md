@@ -59,7 +59,12 @@ This repository provides **deep learning and computer vision tutorials** with Py
 
 * Captcha recognition using CNN + RNN + CTC loss →
 [notebook_0](https://colab.research.google.com/drive/1qDBE_f3twr9il5lgw4NLFEhs9FzQ3PT4) |
-[notebook_1](https://colab.research.google.com/drive/1IDNP9Hc278M1Y26Ts0xC74f5s7rjdAv3?usp=sharing) 
+[notebook_1](https://colab.research.google.com/drive/1IDNP9Hc278M1Y26Ts0xC74f5s7rjdAv3?usp=sharing)
+
+📌 **Object detection**
+
+* Object detection with YOLOv8 →
+[notebook_0](https://colab.research.google.com/drive/1tzbKS3QyR5jaKARNzvfBAwqJEsgyby4h?usp=sharing)
 
 📌 **Vision Transformation**
 
