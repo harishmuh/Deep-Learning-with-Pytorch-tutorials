@@ -55,6 +55,8 @@ This repository provides **deep learning and computer vision tutorials** with Py
 [notebook_1](https://colab.research.google.com/drive/19HwRWcYYxl0QDhdbRIIOOcrkum1Ko5pS?usp=sharing) |
 [notebook_2](https://colab.research.google.com/drive/1qpcCQ-8ppJLlQoINfWBll6aLUhPWLuB7?usp=sharing)
 
+* Road scene segmentation with modified U-Net → [notebook](https://colab.research.google.com/drive/1ILbUlRAewNRNU1qhTAJxJsK81-L2L4ot?usp=sharing)
+
 * Instance segmentation → [notebook](https://colab.research.google.com/drive/1ZeHZq3gZk0HokSPMteoy3oghZl9xpw0f?usp=sharing)
 
 📌 **Object recognition**
