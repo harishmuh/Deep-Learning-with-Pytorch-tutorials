@@ -91,3 +91,8 @@ This repository provides **deep learning and computer vision tutorials** with Py
 
 📌 **Traffic monitoring**
 * Traffic monitoring with YOLOv11 → [notebook](https://colab.research.google.com/drive/12r-9uRt1uIxPmaPt8q2-akOjiInopyTt?usp=sharing)
+
+### 🔹 **Model optimization**
+
+📌 **Model optimization strategy**
+* Model optimization & deployment → [notebook](https://colab.research.google.com/drive/1B5TOH54Ta2PRXTEAfY8nsQUtHFj3SQLf?usp=sharing)
