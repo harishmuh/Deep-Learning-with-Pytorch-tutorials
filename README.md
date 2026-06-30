@@ -85,4 +85,7 @@ This repository provides **deep learning and computer vision tutorials** with Py
 
 📌 **Precision Agriculture**
 
-* Plant Disease detection with Grad-CAM→ [notebook](https://colab.research.google.com/drive/13QHXg_tSSniwaGKNZWXY4EMbi0wC7e-U?usp=sharing)
+* Plant Disease detection with Grad-CAM → [notebook](https://colab.research.google.com/drive/13QHXg_tSSniwaGKNZWXY4EMbi0wC7e-U?usp=sharing)
+
+📌 **Traffic monitoring**
+* Traffic monitoring with YOLOv11 → [notebook](https://colab.research.google.com/drive/12r-9uRt1uIxPmaPt8q2-akOjiInopyTt?usp=sharing)
